@@ -20,6 +20,8 @@
 ## Other Resources
 
 * [CRTP Notes](https://dev-angelist.gitbook.io/crtp-notes) (if you want to deep dive into AD and RT concepts)
+* [AD Penetration Testing Attack Schema](https://orange-cyberdefense.github.io/ocd-mindmaps/img/pentest_ad_dark_2023_02.svg)
+* [GOAD - Orange CyberDefenseLab](https://github.com/Orange-Cyberdefense/GOAD/tree/main)
 
 ## Cheatsheets for Pentesting
 

@@ -26,7 +26,7 @@ icon: '3'
 
 ### ​[eCPPT](https://security.ine.com/certifications/ecppt-certification/) Exam 📄🖊️ <a href="#ejpt-exam" id="ejpt-exam"></a>
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 * **Time limit**: 24h
 * **Expiration date**: yes

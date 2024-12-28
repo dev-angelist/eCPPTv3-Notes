@@ -2,7 +2,7 @@
 
 ## Topics
 
-[6.1 Traffic Analysis](../../ecpptv3/wi-fi-security/6.1-change-it.md)
+[6.1 Traffic Analysis](../../ecpptv3/wi-fi-security/6.1-change-it/)
 
 > #### ❗ Disclaimer
 >

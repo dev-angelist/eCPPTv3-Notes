@@ -2,8 +2,8 @@
 
 #### Topics
 
-> 1. aaa
-> 2. bbb
+> 1. Active Directory Penetration Testing
+> 2. Command & Control (C2/C\&C)
 
 
 
